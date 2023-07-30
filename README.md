@@ -1,4 +1,4 @@
-# SPSGP-528784-Strain-Analysis-Based-On-Eye-Blinking
+# Strain-Analysis-Based-On-Eye-Blinking
 Strain Analysis Based On Eye Blinking
 
 Skills Required: Python, Open CV
